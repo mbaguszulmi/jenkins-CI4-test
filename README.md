@@ -1,6 +1,6 @@
 # Jenkins Test
 
-Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet. This is test.
 
 ## What is CodeIgniter?
 
