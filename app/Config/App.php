@@ -48,7 +48,7 @@ class App extends BaseConfig
 	| 'QUERY_STRING'   Uses $_SERVER['QUERY_STRING']
 	| 'PATH_INFO'      Uses $_SERVER['PATH_INFO']
 	|
-	| WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded!
+	| WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded! wkwkwk
 	*/
 	public $uriProtocol = 'REQUEST_URI';
 
