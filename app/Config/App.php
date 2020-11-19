@@ -7,7 +7,7 @@ class App extends BaseConfig
 
 	/*
 	|--------------------------------------------------------------------------
-	| Base Site URL ss s oke this is dev
+	| Base Site URL ss s oke this is dev and dev
 	|--------------------------------------------------------------------------
 	|
 	| URL to your CodeIgniter root. Typically this will be your base URL,
