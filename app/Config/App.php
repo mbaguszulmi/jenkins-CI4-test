@@ -49,6 +49,7 @@ class App extends BaseConfig
 	| 'PATH_INFO'      Uses $_SERVER['PATH_INFO']
 	|
 	| WARNING: If you set this to 'PATH_INFO', URIs will always be URL-decoded! wkwkwk
+	| okok
 	*/
 	public $uriProtocol = 'REQUEST_URI';
 
